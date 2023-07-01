@@ -3,6 +3,7 @@
 This Repo is to organize in one page all project descriptions and Languages and technologies utilized in them.
 
 - [JSONtoCSV](https://github.com/viniciuspx/json2csv) JSON to CSV converter - **Backend:** JAVA 17 + SpringBoot **Frontend:** ReactJS
+- [Calculator](https://github.com/viniciuspx/calculator) Calculator made with ReactJS - https://viniciuspx.github.io/calculator/ 
 - [crm-api](https://github.com/viniciuspx/crm-api) Simple API to control Employees - **Backend:** JAVA 17 + SpringBoot **DB:** MongoDB + Frontend tests with Postman
 - [simple-crud-springboot](https://github.com/viniciuspx/simple-crud-springboot) Simple CRUD API - **Backend:** JAVA 17 + SpringBoot
 - [todo-list](https://github.com/viniciuspx/todo-list) Todo List - **Backend:** JAVA 17 + SpringBoot **Frontend:** ReactJS
