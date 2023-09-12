@@ -14,3 +14,4 @@ This Repo is to organize in one page all project descriptions and Languages and 
 - [list](https://github.com/viniciuspx/simple-list) List App - **Frontend:** ReactJS
 - [express-api](https://github.com/viniciuspx/simple-express-api) CRUD API - **Backend:** ExpressJS + JS
 - [tictactoe](https://github.com/viniciuspx/tictactoe) Tictactoe Game - Only **Frontend:** ReactJS
+- [JOJO](https://github.com/viniciuspx/JojoPage) First Ever webpage Simple HTML + CSS
