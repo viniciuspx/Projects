@@ -1,4 +1,11 @@
-# Projects
+# Outdated
+
+## For projects see portfolio in [Portfolio](https://github.com/viniciuspx/viniport) -> [Live Here!](https://viniciuspx.netlify.app/)
+
+
+
+
+### Projects
 
 This Repo is to organize in one page all project descriptions and Languages and technologies utilized in them.
 
